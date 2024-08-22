@@ -1,0 +1,11 @@
+.hero-bg {
+    background-image: url('https://via.placeholder.com/1500x800'); /* Replace with your image */
+    background-size: cover;
+    background-position: center;
+}
+html, body {
+    height: 100%;
+}
+.flex-1 {
+    flex: 1;
+}
